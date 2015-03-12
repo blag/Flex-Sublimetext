@@ -13,7 +13,7 @@ The package is listed as `Flex` in the packages list.
 ### Using Git
 
 Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly
-into your `Packages` directory in the Sublime Text 2 application settings area.
+into your `Packages` directory in the Sublime Text application settings area.
 
 Go to your Sublime Text `Packages` directory and clone the theme repository using the command below:
 
