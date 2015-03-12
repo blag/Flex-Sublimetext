@@ -1,6 +1,6 @@
 # Flex Sublimetext Bundle
 
-Flex bundle (mxml + Actionscript 3) bundle for sublimetext 2.
+Flex bundle (mxml + Actionscript 3) bundle for Sublime Text 2 & 3.
 
 ## Installation
 
@@ -15,7 +15,7 @@ The package is listed as `Flex` in the packages list.
 Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly
 into your `Packages` directory in the Sublime Text 2 application settings area.
 
-Go to your Sublime Text 2 `Packages` directory and clone the theme repository using the command below:
+Go to your Sublime Text `Packages` directory and clone the theme repository using the command below:
 
     git clone https://github.com/itsgg/Flex-Sublimetext "Flex"
 
